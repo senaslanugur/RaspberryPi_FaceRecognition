@@ -1,5 +1,5 @@
 """
-Melike Kubra Ozdemir - 12.2020
+UgurSENASLAN - 12.2020
 
 Yuz Maskesi Tanimlama Projesi
 
